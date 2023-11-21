@@ -1,0 +1,348 @@
+{"id":9,"email":"a@b.es","password":"3ID0H3S7hhMmX0MEJVza3X8d6hXYqddezTgRjflEbHE=","salt":"OuYYfozjrq9OpQMG+wFSbQ=="}
+
+
+{"type":"https://tools.ietf.org/html/rfc7235#section-3.1","title":"Unauthorized","status":401,"traceId":"00-adb585ac3fecf4d1e1a5a1b8fe051dcc-e1400e23d87fee64-00"}
+{"type":"https://tools.ietf.org/html/rfc7231#section-6.5.1","title":"One or more validation errors occurred.","status":400,"traceId":"00-c7f6cb09a1a889fddcc1c390bca002b8-066e2a272ed9ca21-00","errors":{"$":["',' is invalid after a single JSON value. Expected end of data. Path: $ | LineNumber: 3 | BytePositionInLine: 1."],"cambiarPassword":["The cambiarPassword field is required."]}}
+{"type":"https://tools.ietf.org/html/rfc7231#section-6.5.1","title":"One or more validation errors occurred.","status":400,"traceId":"00-4a085e3d325a26812df86cb627b9b286-c0c6b71b6198e3f7-00","errors":{"$":["The JSON value could not be converted to ApiMiBiblioteca.DTOs.DTOUsuario. Path: $ | LineNumber: 0 | BytePositionInLine: 1."],"cambiarPassword":["The cambiarPassword field is required."]}}
+{"type":"https://tools.ietf.org/html/rfc7231#section-6.5.1","title":"One or more validation errors occurred.","status":400,"traceId":"00-731bdc100b5f41fd2b59a6a980f2e4c7-9f9a87d2eb3695b5-00","errors":{"$":["The JSON value could not be converted to ApiMiBiblioteca.DTOs.DTOUsuario. Path: $ | LineNumber: 0 | BytePositionInLine: 1."],"cambiarPassword":["The cambiarPassword field is required."]}}
+
+{"type":"https://tools.ietf.org/html/rfc7235#section-3.1","title":"Unauthorized","status":401,"traceId":"00-a550ea47a56bc8de36d5347b2a5949cc-f8bfcdda629b12da-00"}
+
+
+{"type":"https://tools.ietf.org/html/rfc7235#section-3.1","title":"Unauthorized","status":401,"traceId":"00-076040546ff25869f3fff72a35cff7c4-808e1a0219062e4a-00"}
+
+
+
+
+{"type":"https://tools.ietf.org/html/rfc7235#section-3.1","title":"Unauthorized","status":401,"traceId":"00-68b0db7a7c70bf073ecd633e84d0f3b3-810bd783a8e4b2bd-00"}
+
+{"type":"https://tools.ietf.org/html/rfc7235#section-3.1","title":"Unauthorized","status":401,"traceId":"00-ebcf82a590198c7fcd75c89d307fdd44-448df7444b2d37c2-00"}
+
+Contraseña incorrecta
+
+
+{"type":"https://tools.ietf.org/html/rfc7235#section-3.1","title":"Unauthorized","status":401,"traceId":"00-bb93f17a62b8957d60992153d784a044-7831892719adf938-00"}
+
+
+
+{"type":"https://tools.ietf.org/html/rfc7235#section-3.1","title":"Unauthorized","status":401,"traceId":"00-bb5e3b6d0b047ad6bf9053b0db4ed591-dbffdfcfa3f0278b-00"}
+{"type":"https://tools.ietf.org/html/rfc7235#section-3.1","title":"Unauthorized","status":401,"traceId":"00-65c938919bada2e3ff6e3749c62a392c-630b18998bb26b81-00"}
+contraseña incorrecta
+{"type":"https://tools.ietf.org/html/rfc7235#section-3.1","title":"Unauthorized","status":401,"traceId":"00-bc70c9682cb5ec72dfd2e8bfb720b18d-a45263a4986fc992-00"}
+{"type":"https://tools.ietf.org/html/rfc7235#section-3.1","title":"Unauthorized","status":401,"traceId":"00-1f325e6d7937ff9da754e4b28e4df82d-5eaf16962a84efc2-00"}
+contraseña incorrecta
+{"id":10,"email":"a@c.es","password":"yoRlfwOKoIbiMTXR/+QUhfpOsfFiKtLhlAAXkQC6MKo=","salt":"JGCrrDYz+KU6uXwGQHELng=="}
+{"type":"https://tools.ietf.org/html/rfc7235#section-3.1","title":"Unauthorized","status":401,"traceId":"00-ab4fdb2212ba92fe1f5ac7112c3f48e2-d5b443fb5bf7aef1-00"}
+contraseña incorrecta
+
+{"type":"https://tools.ietf.org/html/rfc7235#section-3.1","title":"Unauthorized","status":401,"traceId":"00-686951794483045186c0be4a1883eaf2-a1184712b2c0f573-00"}
+contraseña incorrecta
+Contraseña incorrecta
+
+
+contraseña incorrecta
+
+
+
+{"type":"https://tools.ietf.org/html/rfc7235#section-3.1","title":"Unauthorized","status":401,"traceId":"00-a54feae52ba3507af4218c2ba07a358f-218a83372af86144-00"}
+{"type":"https://tools.ietf.org/html/rfc7235#section-3.1","title":"Unauthorized","status":401,"traceId":"00-eec05c82ed435d3010feda98ae35eaca-2752d96f2c45e4b9-00"}
+
+{"type":"https://tools.ietf.org/html/rfc7235#section-3.1","title":"Unauthorized","status":401,"traceId":"00-38508c87944f9138d048d9e9f884210b-cf0ae7817d3e80c8-00"}
+
+
+https://localhost:7028/changepassword/iHa686gTPUmoue8eluNOlg
+Enlace correcto
+
+Enlace correcto
+Operación no autorizada
+Operación no autorizada
+Operación no autorizada
+Password cambiado con exito
+Operación no autorizada
+Operación no autorizada
+Operación no autorizada
+https://localhost:7028/changepassword/wvmxoFcbt02EVIq8t0ZMYQ
+Password cambiado con exito
+https://localhost:7028/changepassword/ptGeu4O8k62OxnhZO1n4A
+https://localhost:7028/changepassword/oeRksmwQUKoHwHoxlgovA
+https://localhost:7028/changepassword/8iviKb7j8UiD1xXSqysRNw
+https://localhost:7028/changepassword/ef4f9llRJ0i6iPgm9OJ6fA
+https://localhost:7028/changepassword/T44UiFf710q03URq6gZvLg
+https://localhost:7028/changepassword/UqKSP5NMH0u7UtTVkbRUw
+Password cambiado con exito
+Operación no autorizada
+https://localhost:7028/changepassword/XIklkJwrN06uHyGRG3j2ug
+Ya se envió un enlace en las últimas 24 horas
+https://localhost:7028/changepassword/a01OSdmFMU6n0selAEMxTA
+Ya se envió un enlace en las últimas 24 horas
+Password cambiado con exito
+Operación no autorizada
+Operación no autorizada
+https://localhost:7028/changepassword/UNa9YrSG1UimiA6vOIeBtQ
+Enlace correcto
+
+Ya se ha enviado un enlace en el último minuto
+Ya se ha enviado un enlace en el último minuto
+Password cambiado con exito
+Operación no autorizada
+Ya se ha enviado un enlace en el último minuto
+https://localhost:7028/changepassword/9VBQ3NDkMEilpEEjD5eJnw
+Ya se ha enviado un enlace en el último minuto
+https://localhost:7028/changepassword/fisH0t3Eu9eJF4CytKqA
+Ya se ha enviado un enlace en el último minuto
+Ya se ha enviado un enlace en el último minuto
+Password cambiado con exito
+Operación no autorizada
+Ya se ha enviado un enlace en el último minuto
+Ya se ha enviado un enlace en el último minuto
+Ya se ha enviado un enlace en el último minuto
+Ya se ha enviado un enlace en el último minuto
+Ya se ha enviado un enlace en el último minuto
+https://localhost:7028/changepassword/Z8HCNqPghk46ShJXwfx6A
+Ya se ha enviado un enlace en el último minuto
+https://localhost:7028/changepassword/839mKVZNz0GPMMicQlx0kQ
+Ya se ha enviado un enlace en el último minuto
+Ya se ha enviado un enlace en el último minuto
+Ya se ha enviado un enlace en el último minuto
+Ya se ha enviado un enlace en el último minuto
+Ya se ha enviado un enlace en el último minuto
+Ya se ha enviado un enlace en el último minuto
+https://localhost:7028/changepassword/zoPH6qZGbEOaDKgZ8ukJYQ
+https://localhost:7028/changepassword/TePGgg60rUWtnHFzQBaTfg
+https://localhost:7028/changepassword/OtTqlW8fcUKDSFGNqK2w0Q
+https://localhost:7028/changepassword/FjgSI9v9Eek9fZ0Vt5zRw
+https://localhost:7028/changepassword/nWn9H6gf3kCPBNnk4NhZuw
+Ya se ha enviado un enlace en el último minuto
+Ya se ha enviado un enlace en el último minuto
+https://localhost:7028/changepassword/uEQwpxpcVEyro29MrpkjeQ
+Ya se ha enviado un enlace en el último minuto
+https://localhost:7028/changepassword/sdvybWsaG0Oq4P1L7vj5QQ
+https://localhost:7028/changepassword/LXGvidKnxkipDY7Firfliw
+https://localhost:7028/changepassword/nfHIKjsw3EymVSJwcbdWw
+https://localhost:7028/changepassword/1o6lij9XKEWtoKcB8PMhbw
+https://localhost:7028/changepassword/nrDu42xzcEuMzgojuIe01w
+https://localhost:7028/changepassword/7jiY1PEkFE6t137dkolA
+https://localhost:7028/changepassword/1eKdSDtF7kG54RCZtGTog
+https://localhost:7028/changepassword/vSLt26FCnEqAnGwwdU9msw
+Ya se ha enviado un enlace en el último minuto
+https://localhost:7028/changepassword/T6h2qiUAqkmrT54aLrFR9Q
+Ya se ha enviado un enlace en el último minuto
+https://localhost:7028/changepassword/vvxRgJRThkq8AQS8kxyaqw
+https://localhost:7028/changepassword/8hVCn3U9IECH8d7V6OkZw
+https://localhost:7028/changepassword/pFS69nZuEyyI613kgqmIw
+https://localhost:7028/changepassword/bCNKklQe0uL2nOS0ym2g
+https://localhost:7028/changepassword/GHMQyfPYkGPeaGGhozzw
+https://localhost:7028/changepassword/OM27HDpLE0GxsYy6JcCFww
+Enlace correcto
+
+Enlace correcto
+Enlace correcto
+Ya se ha enviado un enlace en el último minuto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Password cambiado con exito
+Operación no autorizada
+Enlace incorrecto
+https://localhost:7028/changepassword/KJYUQ490x0MJ1nyYJnc7Q
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+https://localhost:7028/changepassword/vZxiUlv2k0u8Yloylfvg
+Enlace incorrecto
+Enlace incorrecto
+Enlace incorrecto
+Enlace incorrecto
+Enlace incorrecto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+https://localhost:7028/changepassword/ef613eogPkOjsmF8S1jSFA?expires=15/11/2023 12:49:26
+Enlace correcto
+
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Usuario no registrado
+https://localhost:7028/changepassword/kDqMEv8NNkuDmrfUqk66g
+{"id":11,"email":"string","password":"CfDJ8G--ppLdettHjHPjl0gKzqVwXiNX_Om2DafQ1Tv6K4okO23gaxQr3m-sL21JN4GXR2bFVP4I0RLLI4Ch6SdiXrKlFjKAR0CAg8KSM7xjayk3KsVkZf_e50sHFgQfYS7Fng","salt":null,"enlaceCambioPass":null,"fechaEnvioEnlace":null}
+https://localhost:7028/changepassword/8xGQYWknd0Of34JqoyCLZw
+Enlace correcto
+
+Ya se ha enviado un enlace en el último minuto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+https://localhost:7028/changepassword/u40ZZ4e7UWmlpfalI7zaQ
+Enlace correcto
+
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Enlace correcto
+Operación no autorizada
+Operación no autorizada
+https://localhost:7028/changepassword/fuyJ9a3vkGjlL9eNtVSTw
+Enlace correcto
+Enlace correcto
+Ya se ha enviado un enlace en el último minuto
+Enlace correcto
+Enlace correcto
+
+
+{"id":12,"email":"string","password":"CfDJ8G--ppLdettHjHPjl0gKzqWVAayQ2PsYTNxMO1-9uc98gn5AZGvQKG4bSWqUE_y05DAqvq-yFzRAR_FBVNqTlVgcV86jnu4DrwSe5JMKddXcfeq8V95TMeeKHVBO-dMyGQ","salt":null,"enlaceCambioPass":null,"fechaEnvioEnlace":null}
+
+{"id":13,"email":"string","password":"b2oRTCyMCa13hrx9dupM9tsAk/xZD4XluyJNpZkg9m8=","salt":"96lmVMpI2FQjxeISRU8IGA==","enlaceCambioPass":null,"fechaEnvioEnlace":null}
+{"email":"a@a.es","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9lbWFpbGFkZHJlc3MiOiJhQGEuZXMiLCJsbyBxdWUgeW8gcXVpZXJhIjoiY3VhbHF1aWVyIG90cm8gdmFsb3IiLCJleHAiOjE3MDI3MjM0NjN9.O13kZNvk3KjOUeGX3ztUJASw30hUq6G0idwLCMGjMS0"}
+
+
+
+[{"idAutor":1,"nombre":"Pepito","libros":[]},{"idAutor":2,"nombre":"Encarnita","libros":[]},{"idAutor":3,"nombre":"Paquita","libros":[]},{"idAutor":7,"nombre":"Fungencio","libros":[]}]
+{"email":"a@a.es","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9lbWFpbGFkZHJlc3MiOiJhQGEuZXMiLCJsbyBxdWUgeW8gcXVpZXJhIjoiY3VhbHF1aWVyIG90cm8gdmFsb3IiLCJleHAiOjE3MDI3MjQwMjd9.VTsMgBzWbmuqC9KiWTtCMJu67danoKgfBeZWvX1r_Ts"}
+[{"idAutor":1,"nombre":"Pepito","libros":[]},{"idAutor":2,"nombre":"Encarnita","libros":[]},{"idAutor":3,"nombre":"Paquita","libros":[]},{"idAutor":7,"nombre":"Fungencio","libros":[]}]
+{"id":14,"email":"string","password":"CfDJ8G--ppLdettHjHPjl0gKzqWyZcEx6BtR7Fyo-tunBP7P1nK3jTrFP1faBi0Zqxcrm5k3_ibYHcPCBBGzbOTqonV-9t8IaJdL-SY-N4YpSCybBId-ADoRudZvqKHAnyzO0A","salt":null,"enlaceCambioPass":null,"fechaEnvioEnlace":null}
+{"email":"a@a.es","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9lbWFpbGFkZHJlc3MiOiJhQGEuZXMiLCJsbyBxdWUgeW8gcXVpZXJhIjoiY3VhbHF1aWVyIG90cm8gdmFsb3IiLCJleHAiOjE3MDI3MjYxMDh9.3pwYDGQMHOUhJ6XI7Y3Kwu6TWNR29DNbmJkjldPk2mg"}
+[{"idAutor":1,"nombre":"Pepito","libros":[]},{"idAutor":2,"nombre":"Encarnita","libros":[]},{"idAutor":3,"nombre":"Paquita","libros":[]},{"idAutor":7,"nombre":"Fungencio","libros":[]}]
+
+[{"idEditorial":1,"nombre":"Nova","libros":[]},{"idEditorial":2,"nombre":"Obscura","libros":[]},{"idEditorial":3,"nombre":"Ratones","libros":[]},{"idEditorial":4,"nombre":"Ratoncitos","libros":[]}]
+[{"idEditorial":1,"nombre":"Nova","libros":[]},{"idEditorial":2,"nombre":"Obscura","libros":[]},{"idEditorial":3,"nombre":"Ratones","libros":[]},{"idEditorial":4,"nombre":"Ratoncitos","libros":[]}]
+[{"idEditorial":1,"nombre":"Nova","libros":[]},{"idEditorial":2,"nombre":"Obscura","libros":[]},{"idEditorial":3,"nombre":"Ratones","libros":[]},{"idEditorial":4,"nombre":"Ratoncitos","libros":[]}]
+[{"idEditorial":1,"nombre":"Nova","libros":[]},{"idEditorial":2,"nombre":"Obscura","libros":[]},{"idEditorial":3,"nombre":"Ratones","libros":[]},{"idEditorial":4,"nombre":"Ratoncitos","libros":[]}]
+[{"idEditorial":1,"nombre":"Nova","libros":[]},{"idEditorial":2,"nombre":"Obscura","libros":[]},{"idEditorial":3,"nombre":"Ratones","libros":[]},{"idEditorial":4,"nombre":"Ratoncitos","libros":[]}]
+[{"idEditorial":1,"nombre":"Nova","libros":[]},{"idEditorial":2,"nombre":"Obscura","libros":[]},{"idEditorial":3,"nombre":"Ratones","libros":[]},{"idEditorial":4,"nombre":"Ratoncitos","libros":[]}]
+[{"idEditorial":1,"nombre":"Nova","libros":[]},{"idEditorial":2,"nombre":"Obscura","libros":[]},{"idEditorial":3,"nombre":"Ratones","libros":[]},{"idEditorial":4,"nombre":"Ratoncitos","libros":[]}]
+[{"idEditorial":1,"nombre":"Nova","libros":[]},{"idEditorial":2,"nombre":"Obscura","libros":[]},{"idEditorial":3,"nombre":"Ratones","libros":[]},{"idEditorial":4,"nombre":"Ratoncitos","libros":[]}]
+[{"idEditorial":1,"nombre":"Nova","libros":[]},{"idEditorial":2,"nombre":"Obscura","libros":[]},{"idEditorial":3,"nombre":"Ratones","libros":[]},{"idEditorial":4,"nombre":"Ratoncitos","libros":[]}]
+[{"idEditorial":1,"nombre":"Nova","libros":[]},{"idEditorial":2,"nombre":"Obscura","libros":[]},{"idEditorial":3,"nombre":"Ratones","libros":[]},{"idEditorial":4,"nombre":"Ratoncitos","libros":[]}]
+{"email":"a@a.es","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9lbWFpbGFkZHJlc3MiOiJhQGEuZXMiLCJsbyBxdWUgeW8gcXVpZXJhIjoiY3VhbHF1aWVyIG90cm8gdmFsb3IiLCJleHAiOjE3MDMwNjk5OTV9.By-jS82-sj0y4Wi-HLtw19CKlB_vWzRHljYVEA5CqRk"}
+{"email":"a@a.es","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9lbWFpbGFkZHJlc3MiOiJhQGEuZXMiLCJsbyBxdWUgeW8gcXVpZXJhIjoiY3VhbHF1aWVyIG90cm8gdmFsb3IiLCJleHAiOjE3MDMwNzE3MTN9.lkyHw7lQSYarnom9EiE2ZeaQ08WjyCcQB3uZSG5tjGk"}
+[{"idAutor":1,"nombre":"Pepito","libros":[]},{"idAutor":2,"nombre":"Encarnita","libros":[]},{"idAutor":3,"nombre":"Paquita","libros":[]},{"idAutor":7,"nombre":"Fungencio","libros":[]}]
+

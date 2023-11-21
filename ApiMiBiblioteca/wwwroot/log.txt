@@ -1,0 +1,861 @@
+::1 - POST - /api/Libros1 - 10/11/2023 9:56:05
+::1 - POST - /api/Libros1 - 10/11/2023 9:56:28
+::1 - POST - /api/Libros1 - 10/11/2023 9:56:45
+::1 - POST - /api/Libros1 - 10/11/2023 9:56:55
+::1 - POST - /Libros/varios - 10/11/2023 9:58:21
+::1 - POST - /Libros - 10/11/2023 10:00:05
+::1 - POST - /Libros - 10/11/2023 10:00:39
+::1 - POST - /Libros - 10/11/2023 10:00:59
+::1 - POST - /Libros - 10/11/2023 10:01:13
+::1 - POST - /Libros - 10/11/2023 10:01:21
+::1 - GET - /Libros/53453472375 - 10/11/2023 10:01:51
+::1 - GET - /Libros - 10/11/2023 10:15:55
+::1 - POST - /Libros - 10/11/2023 10:17:30
+::1 - POST - /Libros - 10/11/2023 10:17:35
+::1 - 10/11/2023 12:12:16 -  /Libros - POST
+::1 - 10/11/2023 12:12:42 -  /Libros - POST
+::1 - 10/11/2023 12:30:43 -  /Libros - POST
+::1 - 10/11/2023 12:31:10 -  /Libros - POST
+::1 - 10/11/2023 12:38:37 -  /Libros - GET
+::1 - 10/11/2023 12:39:06 -  /Libros - GET
+::1 - 10/11/2023 12:40:25 -  /Libros - GET
+::1 - 10/11/2023 12:41:51 -  /Libros - GET
+::1 - 10/11/2023 12:41:53 -  /Libros - GET
+::1 - 10/11/2023 12:41:54 -  /Libros - GET
+::1 - 10/11/2023 12:42:29 -  /Libros - GET
+::1 - 10/11/2023 12:42:30 -  /Libros - GET
+::1 - 10/11/2023 12:44:02 -  /Libros - GET
+ApiMiBiblioteca
+Error deliberado
+::1 - 10/11/2023 12:44:36 -  /Libros - GET
+ApiMiBiblioteca
+Error deliberado
+::1 - 10/11/2023 12:45:10 -  /Libros - GET
+::1 - 10/11/2023 12:46:23 -  /api/Editoriales - GET
+::1 - 10/11/2023 12:46:53 -  /Libros - GET
+::1 - 10/11/2023 12:47:07 -  /API/Libros - GET
+::1 - 10/11/2023 12:47:21 -  /API/Libros - GET
+::1 - 10/11/2023 12:56:22 -  /API/Libros - GET
+::1 - 10/11/2023 12:56:37 -  /API/Libros - GET
+::1 - 10/11/2023 12:56:38 -  /API/Libros - GET
+::1 - 10/11/2023 12:57:00 -  /Libros - GET
+::1 - 10/11/2023 12:57:02 -  /Libros - GET
+::1 - 10/11/2023 12:57:34 -  /API/Libros - GET
+::1 - 10/11/2023 12:57:35 -  /API/Libros - GET
+::1 - 10/11/2023 13:03:01 -  /Libros/345 - GET
+::1 - 10/11/2023 13:04:01 -  /Libros/345 - GET
+::1 - 10/11/2023 13:04:18 -  /Libros/2343 - GET
+::1 - 10/11/2023 13:04:22 -  /Libros/2343234 - GET
+::1 - 10/11/2023 13:04:28 -  /Libros/1 - GET
+::1 - 13/11/2023 9:41:03 -  /Libros - GET
+
+127.0.0.1 - 13/11/2023 9:41:20 -  /Libros - GET
+
+127.0.0.1 - 13/11/2023 9:41:44 -  /Libros - GET
+
+127.0.0.1 - 13/11/2023 9:41:56 -  /Libros - GET
+
+::1 - 13/11/2023 9:42:56 -  /Libros - GET
+
+::1 - 13/11/2023 9:42:57 -  /Libros - GET
+
+127.0.0.1 - 13/11/2023 9:43:06 -  /Libros - GET
+
+127.0.0.1 - 13/11/2023 9:43:06 -  /Libros - GET
+
+::1 - 13/11/2023 9:48:00 -  /api/Editoriales - GET
+
+::1 - 13/11/2023 9:48:36 -  /api/Autores - GET
+
+127.0.0.1 - 13/11/2023 9:48:47 -  /api/Autores - GET
+
+::1 - 13/11/2023 9:49:21 -  /api/Autores - POST
+
+127.0.0.1 - 13/11/2023 9:49:30 -  /api/Autores - GET
+
+::1 - 13/11/2023 11:33:43 -  /api/Usuarios/encriptar/nuevousuario - POST
+
+::1 - 13/11/2023 11:33:47 -  /api/Usuarios/encriptar/nuevousuario - POST
+
+::1 - 13/11/2023 11:34:02 -  /api/Usuarios/encriptar/nuevousuario - POST
+
+::1 - 13/11/2023 11:34:27 -  /api/Usuarios/encriptar/checkusuario - POST
+
+::1 - 13/11/2023 12:00:37 -  /api/Usuarios/encriptar/nuevousuario - POST
+
+::1 - 13/11/2023 12:01:28 -  /api/Usuarios/encriptar/nuevousuario - POST
+
+::1 - 13/11/2023 12:07:37 -  /api/Usuarios/encriptar/checkusuario - POST
+
+::1 - 13/11/2023 12:37:05 -  /api/Usuarios/encriptar/nuevousuario - POST
+
+::1 - 13/11/2023 12:38:10 -  /api/Usuarios/encriptar/nuevousuario - POST
+
+::1 - 13/11/2023 12:38:29 -  /api/Usuarios/encriptar/nuevousuario - POST
+
+::1 - 13/11/2023 12:50:45 -  /api/Usuarios/2 - DELETE
+
+::1 - 13/11/2023 12:50:55 -  /api/Usuarios/5 - DELETE
+
+::1 - 13/11/2023 12:51:00 -  /api/Usuarios/6 - DELETE
+
+::1 - 13/11/2023 12:51:25 -  /api/Usuarios/2 - DELETE
+
+::1 - 13/11/2023 12:52:02 -  /api/Usuarios/6 - DELETE
+
+::1 - 13/11/2023 12:52:28 -  /api/Usuarios/encriptar/nuevousuario - POST
+
+::1 - 13/11/2023 12:53:06 -  /api/Usuarios/encriptar/nuevousuario - POST
+
+::1 - 13/11/2023 12:58:14 -  /api/Usuarios/2@2.es - DELETE
+
+::1 - 13/11/2023 13:02:05 -  /api/Usuarios/2@2.es - DELETE
+
+::1 - 13/11/2023 13:07:38 -  /api/Usuarios/encriptar/nuevousuario - POST
+
+::1 - 13/11/2023 13:07:47 -  /api/Usuarios/8@8.es - DELETE
+
+::1 - 14/11/2023 10:42:34 -  /api/Usuarios/hash/nuevousuario - POST
+
+::1 - 14/11/2023 10:43:30 -  /api/Usuarios/hash/checkusuario - POST
+
+::1 - 14/11/2023 10:43:39 -  /api/Usuarios/hash/checkusuario - POST
+
+::1 - 14/11/2023 10:43:52 -  /api/Usuarios/hash/checkusuario - POST
+
+::1 - 14/11/2023 10:44:26 -  /api/Usuarios/hash/checkusuario - POST
+
+::1 - 14/11/2023 10:44:40 -  /api/Usuarios/hash/checkusuario - POST
+
+::1 - 14/11/2023 10:44:46 -  /api/Usuarios/hash/checkusuario - POST
+
+::1 - 14/11/2023 10:45:21 -  /api/Usuarios/CambiarPassword - POST
+
+::1 - 14/11/2023 10:45:31 -  /api/Usuarios/CambiarPassword - POST
+
+::1 - 14/11/2023 10:45:41 -  /api/Usuarios/CambiarPassword - POST
+
+::1 - 14/11/2023 10:46:13 -  /api/Usuarios/CambiarPassword - POST
+
+::1 - 14/11/2023 10:46:31 -  /api/Usuarios/CambiarPassword - POST
+
+::1 - 14/11/2023 10:46:48 -  /api/Usuarios/CambiarPassword - POST
+
+::1 - 14/11/2023 10:50:52 -  /api/Usuarios/hash/checkusuario - POST
+
+::1 - 14/11/2023 10:50:59 -  /api/Usuarios/hash/checkusuario - POST
+
+::1 - 14/11/2023 10:51:17 -  /api/Usuarios/CambiarPassword - POST
+
+::1 - 14/11/2023 10:51:23 -  /api/Usuarios/CambiarPassword - POST
+
+::1 - 14/11/2023 10:51:40 -  /api/Usuarios/CambiarPassword - POST
+
+::1 - 14/11/2023 10:55:40 -  /api/Usuarios/hash/checkusuario - POST
+
+::1 - 14/11/2023 10:56:06 -  /api/Usuarios/CambiarPassword - POST
+
+::1 - 14/11/2023 10:56:12 -  /api/Usuarios/CambiarPassword - POST
+
+::1 - 14/11/2023 10:56:21 -  /api/Usuarios/hash/checkusuario - POST
+
+::1 - 14/11/2023 10:56:23 -  /api/Usuarios/hash/checkusuario - POST
+
+::1 - 14/11/2023 10:56:44 -  /api/Usuarios/hash/checkusuario - POST
+
+::1 - 14/11/2023 10:56:50 -  /api/Usuarios/hash/checkusuario - POST
+
+::1 - 14/11/2023 11:08:01 -  /api/Usuarios/hash/checkusuario - POST
+
+::1 - 14/11/2023 11:08:23 -  /api/Usuarios/CambiarPassword - POST
+
+::1 - 14/11/2023 11:09:36 -  /api/Usuarios/hash/checkusuario - POST
+
+::1 - 14/11/2023 11:09:58 -  /api/Usuarios/CambiarPassword - POST
+
+::1 - 14/11/2023 11:10:07 -  /api/Usuarios/CambiarPassword - POST
+
+::1 - 14/11/2023 11:10:21 -  /api/Usuarios/hash/checkusuario - POST
+
+::1 - 14/11/2023 11:10:31 -  /api/Usuarios/hash/checkusuario - POST
+
+::1 - 14/11/2023 11:10:38 -  /api/Usuarios/hash/checkusuario - POST
+
+::1 - 14/11/2023 11:13:22 -  /api/Usuarios/CambiarPassword - POST
+
+::1 - 14/11/2023 11:14:10 -  /api/Usuarios/CambiarPassword - POST
+
+::1 - 14/11/2023 11:22:36 -  /api/Usuarios/hash/checkusuario - POST
+
+::1 - 14/11/2023 11:26:41 -  /api/Usuarios/hash/checkusuario - POST
+
+::1 - 14/11/2023 11:26:48 -  /api/Usuarios/hash/checkusuario - POST
+
+::1 - 14/11/2023 11:27:00 -  /api/Usuarios/hash/checkusuario - POST
+
+::1 - 14/11/2023 11:27:07 -  /api/Usuarios/hash/checkusuario - POST
+
+::1 - 14/11/2023 11:27:14 -  /api/Usuarios/hash/checkusuario - POST
+
+::1 - 14/11/2023 11:27:49 -  /api/Usuarios/hash/nuevousuario - POST
+
+::1 - 14/11/2023 11:28:04 -  /api/Usuarios/hash/checkusuario - POST
+
+::1 - 14/11/2023 11:28:20 -  /api/Usuarios/hash/checkusuario - POST
+
+::1 - 14/11/2023 11:28:55 -  /api/Usuarios/CambiarPassword - POST
+
+::1 - 14/11/2023 11:29:01 -  /api/Usuarios/hash/checkusuario - POST
+
+::1 - 14/11/2023 11:29:11 -  /api/Usuarios/hash/checkusuario - POST
+
+::1 - 14/11/2023 11:30:54 -  /api/Usuarios/CambiarPassword - POST
+
+::1 - 14/11/2023 11:31:06 -  /api/Usuarios/CambiarPassword - POST
+
+::1 - 14/11/2023 11:31:35 -  /api/Usuarios/CambiarPassword - POST
+
+::1 - 14/11/2023 11:32:07 -  /api/Usuarios/hash/checkusuario - POST
+
+::1 - 14/11/2023 11:32:33 -  /api/Usuarios/hash/checkusuario - POST
+
+::1 - 14/11/2023 11:33:19 -  /api/Usuarios/CambiarPassword - POST
+
+::1 - 14/11/2023 11:33:41 -  /api/Usuarios/CambiarPassword - POST
+
+::1 - 14/11/2023 11:33:51 -  /api/Usuarios/hash/checkusuario - POST
+
+::1 - 14/11/2023 11:34:00 -  /api/Usuarios/hash/checkusuario - POST
+
+::1 - 14/11/2023 11:34:06 -  /api/Usuarios/hash/checkusuario - POST
+
+::1 - 14/11/2023 11:36:39 -  /api/Usuarios/hash/checkusuario - POST
+
+::1 - 14/11/2023 11:36:45 -  /api/Usuarios/hash/checkusuario - POST
+
+::1 - 14/11/2023 11:37:07 -  /api/Usuarios/CambiarPassword - POST
+
+::1 - 15/11/2023 10:48:26 -  /api/Usuarios/hash/linkchangepassword - POST
+
+::1 - 15/11/2023 10:48:36 -  /changepassword/iHa686gTPUmoue8eluNOlg - GET
+
+::1 - 15/11/2023 10:48:37 -  /favicon.ico - GET
+
+::1 - 15/11/2023 10:49:03 -  /changepassword/iHa686gTPUmoue8eluNOlg - GET
+
+::1 - 15/11/2023 10:49:45 -  /api/Usuarios/usuarios/changepassword - POST
+
+::1 - 15/11/2023 10:49:53 -  /api/Usuarios/usuarios/changepassword - POST
+
+::1 - 15/11/2023 10:50:01 -  /api/Usuarios/usuarios/changepassword - POST
+
+::1 - 15/11/2023 10:50:19 -  /api/Usuarios/usuarios/changepassword - POST
+
+::1 - 15/11/2023 10:50:25 -  /api/Usuarios/usuarios/changepassword - POST
+
+::1 - 15/11/2023 10:50:34 -  /api/Usuarios/usuarios/changepassword - POST
+
+::1 - 15/11/2023 10:50:38 -  /api/Usuarios/usuarios/changepassword - POST
+
+::1 - 15/11/2023 10:50:48 -  /api/Usuarios/hash/linkchangepassword - POST
+
+::1 - 15/11/2023 10:51:01 -  /api/Usuarios/usuarios/changepassword - POST
+
+::1 - 15/11/2023 10:51:31 -  /api/Usuarios/hash/linkchangepassword - POST
+
+::1 - 15/11/2023 10:51:32 -  /api/Usuarios/hash/linkchangepassword - POST
+
+::1 - 15/11/2023 10:51:33 -  /api/Usuarios/hash/linkchangepassword - POST
+
+::1 - 15/11/2023 10:51:36 -  /api/Usuarios/hash/linkchangepassword - POST
+
+::1 - 15/11/2023 11:07:29 -  /api/Usuarios/hash/linkchangepassword - POST
+
+::1 - 15/11/2023 11:07:33 -  /api/Usuarios/hash/linkchangepassword - POST
+
+::1 - 15/11/2023 11:07:58 -  /api/Usuarios/usuarios/changepassword - POST
+
+::1 - 15/11/2023 11:08:01 -  /api/Usuarios/usuarios/changepassword - POST
+
+::1 - 15/11/2023 11:08:13 -  /api/Usuarios/hash/LinkDe24horas - POST
+
+::1 - 15/11/2023 11:08:17 -  /api/Usuarios/hash/LinkDe24horas - POST
+
+::1 - 15/11/2023 11:09:16 -  /api/Usuarios/hash/LinkDe24horas - POST
+
+::1 - 15/11/2023 11:09:22 -  /api/Usuarios/hash/LinkDe24horas - POST
+
+::1 - 15/11/2023 11:09:39 -  /api/Usuarios/usuarios/changepassword - POST
+
+::1 - 15/11/2023 11:09:42 -  /api/Usuarios/usuarios/changepassword - POST
+
+::1 - 15/11/2023 11:09:47 -  /api/Usuarios/usuarios/changepassword - POST
+
+::1 - 15/11/2023 11:13:09 -  /api/Usuarios/hash/LinkDe1minuto - POST
+
+::1 - 15/11/2023 11:13:21 -  /changepassword/UNa9YrSG1UimiA6vOIeBtQ - GET
+
+::1 - 15/11/2023 11:13:21 -  /favicon.ico - GET
+
+::1 - 15/11/2023 11:13:30 -  /api/Usuarios/hash/LinkDe1minuto - POST
+
+::1 - 15/11/2023 11:13:31 -  /api/Usuarios/hash/LinkDe1minuto - POST
+
+::1 - 15/11/2023 11:13:47 -  /api/Usuarios/usuarios/changepassword - POST
+
+::1 - 15/11/2023 11:13:50 -  /api/Usuarios/usuarios/changepassword - POST
+
+::1 - 15/11/2023 11:13:54 -  /api/Usuarios/hash/LinkDe1minuto - POST
+
+::1 - 15/11/2023 11:16:54 -  /api/Usuarios/hash/LinkDe1minuto - POST
+
+::1 - 15/11/2023 11:16:56 -  /api/Usuarios/hash/LinkDe1minuto - POST
+
+::1 - 15/11/2023 11:28:40 -  /api/Usuarios/hash/LinkDe1minuto - POST
+
+::1 - 15/11/2023 11:28:49 -  /api/Usuarios/hash/LinkDe1minuto - POST
+
+::1 - 15/11/2023 11:28:57 -  /api/Usuarios/hash/LinkDe1minuto - POST
+
+::1 - 15/11/2023 11:29:18 -  /api/Usuarios/usuarios/changepassword - POST
+
+::1 - 15/11/2023 11:29:22 -  /api/Usuarios/usuarios/changepassword - POST
+
+::1 - 15/11/2023 11:29:37 -  /api/Usuarios/hash/LinkDe1minuto - POST
+
+::1 - 15/11/2023 11:29:38 -  /api/Usuarios/hash/LinkDe1minuto - POST
+
+::1 - 15/11/2023 11:29:38 -  /api/Usuarios/hash/LinkDe1minuto - POST
+
+::1 - 15/11/2023 11:29:39 -  /api/Usuarios/hash/LinkDe1minuto - POST
+
+::1 - 15/11/2023 11:29:40 -  /api/Usuarios/hash/LinkDe1minuto - POST
+
+::1 - 15/11/2023 11:32:08 -  /api/Usuarios/hash/LinkDe1minuto - POST
+
+::1 - 15/11/2023 11:32:20 -  /api/Usuarios/hash/LinkDe1minuto - POST
+
+::1 - 15/11/2023 11:38:14 -  /api/Usuarios/hash/LinkDe1minuto - POST
+
+::1 - 15/11/2023 11:38:16 -  /api/Usuarios/hash/LinkDe1minuto - POST
+
+::1 - 15/11/2023 11:38:17 -  /api/Usuarios/hash/LinkDe1minuto - POST
+
+::1 - 15/11/2023 11:38:18 -  /api/Usuarios/hash/LinkDe1minuto - POST
+
+::1 - 15/11/2023 11:38:18 -  /api/Usuarios/hash/LinkDe1minuto - POST
+
+::1 - 15/11/2023 11:38:18 -  /api/Usuarios/hash/LinkDe1minuto - POST
+
+::1 - 15/11/2023 11:38:19 -  /api/Usuarios/hash/LinkDe1minuto - POST
+
+::1 - 15/11/2023 11:39:02 -  /api/Usuarios/hash/LinkDe1minuto - POST
+
+::1 - 15/11/2023 11:39:09 -  /api/Usuarios/hash/LinkDe1minuto - POST
+
+::1 - 15/11/2023 11:39:10 -  /api/Usuarios/hash/LinkDe1minuto - POST
+
+::1 - 15/11/2023 11:39:10 -  /api/Usuarios/hash/LinkDe1minuto - POST
+
+::1 - 15/11/2023 11:40:37 -  /api/Usuarios/hash/LinkDe1minuto - POST
+
+::1 - 15/11/2023 11:40:59 -  /api/Usuarios/hash/LinkDe1minuto - POST
+
+::1 - 15/11/2023 11:41:29 -  /api/Usuarios/hash/LinkDe1minuto - POST
+
+::1 - 15/11/2023 11:42:04 -  /api/Usuarios/hash/LinkDe1minuto - POST
+
+::1 - 15/11/2023 11:42:17 -  /api/Usuarios/hash/LinkDe1minuto - POST
+
+::1 - 15/11/2023 11:53:08 -  /api/Usuarios/hash/LinkDe1minuto - POST
+
+::1 - 15/11/2023 11:53:13 -  /api/Usuarios/hash/LinkDe1minuto - POST
+
+::1 - 15/11/2023 11:53:14 -  /api/Usuarios/hash/LinkDe1minuto - POST
+
+::1 - 15/11/2023 11:53:15 -  /api/Usuarios/hash/LinkDe1minuto - POST
+
+::1 - 15/11/2023 11:55:12 -  /api/Usuarios/hash/LinkDe1minuto - POST
+
+::1 - 15/11/2023 11:55:15 -  /api/Usuarios/hash/LinkDe1minuto - POST
+
+::1 - 15/11/2023 11:55:15 -  /api/Usuarios/hash/LinkDe1minuto - POST
+
+::1 - 15/11/2023 11:55:16 -  /api/Usuarios/hash/LinkDe1minuto - POST
+
+::1 - 15/11/2023 11:55:57 -  /api/Usuarios/hash/LinkDe1minuto - POST
+
+::1 - 15/11/2023 11:56:44 -  /api/Usuarios/hash/LinkDe1minuto - POST
+
+::1 - 15/11/2023 11:56:45 -  /api/Usuarios/hash/LinkDe1minuto - POST
+
+::1 - 15/11/2023 12:04:16 -  /api/Usuarios/hash/LinkDe1minuto - POST
+
+::1 - 15/11/2023 12:04:18 -  /api/Usuarios/hash/LinkDe1minuto - POST
+
+::1 - 15/11/2023 12:04:20 -  /api/Usuarios/hash/LinkDe1minuto - POST
+
+::1 - 15/11/2023 12:04:20 -  /api/Usuarios/hash/LinkDe1minuto - POST
+
+::1 - 15/11/2023 12:04:21 -  /api/Usuarios/hash/LinkDe1minuto - POST
+
+::1 - 15/11/2023 12:38:27 -  /api/Usuarios/hash/LinkDe1minuto - POST
+
+::1 - 15/11/2023 12:38:35 -  /changepassword/OM27HDpLE0GxsYy6JcCFww - GET
+
+::1 - 15/11/2023 12:38:35 -  /favicon.ico - GET
+
+::1 - 15/11/2023 12:38:38 -  /changepassword/OM27HDpLE0GxsYy6JcCFww - GET
+
+::1 - 15/11/2023 12:38:38 -  /changepassword/OM27HDpLE0GxsYy6JcCFww - GET
+
+::1 - 15/11/2023 12:38:41 -  /api/Usuarios/hash/LinkDe1minuto - POST
+
+::1 - 15/11/2023 12:38:43 -  /changepassword/OM27HDpLE0GxsYy6JcCFww - GET
+
+::1 - 15/11/2023 12:38:44 -  /changepassword/OM27HDpLE0GxsYy6JcCFww - GET
+
+::1 - 15/11/2023 12:38:44 -  /changepassword/OM27HDpLE0GxsYy6JcCFww - GET
+
+::1 - 15/11/2023 12:38:44 -  /changepassword/OM27HDpLE0GxsYy6JcCFww - GET
+
+::1 - 15/11/2023 12:38:44 -  /changepassword/OM27HDpLE0GxsYy6JcCFww - GET
+
+::1 - 15/11/2023 12:38:45 -  /changepassword/OM27HDpLE0GxsYy6JcCFww - GET
+
+::1 - 15/11/2023 12:38:57 -  /changepassword/OM27HDpLE0GxsYy6JcCFww - GET
+
+::1 - 15/11/2023 12:39:26 -  /api/Usuarios/usuarios/changepassword - POST
+
+::1 - 15/11/2023 12:39:30 -  /api/Usuarios/usuarios/changepassword - POST
+
+::1 - 15/11/2023 12:39:34 -  /changepassword/OM27HDpLE0GxsYy6JcCFww - GET
+
+::1 - 15/11/2023 12:40:31 -  /api/Usuarios/hash/LinkDe1minuto - POST
+
+::1 - 15/11/2023 12:40:41 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:41:29 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:41:30 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:41:30 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:41:31 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:41:31 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:41:31 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:41:44 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:41:45 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:41:45 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:41:46 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:41:46 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:41:46 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:41:46 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:41:46 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:41:46 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:41:53 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:41:53 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:41:54 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:41:54 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:41:54 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:41:54 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:41:54 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:41:55 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:41:55 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:41:55 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:41:55 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:41:55 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:41:55 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:41:56 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:41:58 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:41:59 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:41:59 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:41:59 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:42:00 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:42:00 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:42:00 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:42:05 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:42:22 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:42:22 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:42:23 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:42:23 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:42:23 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:42:23 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:42:27 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:42:43 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:42:44 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:42:46 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:42:47 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:42:47 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:42:47 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:42:47 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:42:48 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:42:48 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:42:48 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:42:48 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:42:48 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:42:48 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:42:49 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:42:49 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:42:49 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:42:49 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:42:49 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:42:49 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:42:49 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:42:50 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:42:50 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:42:50 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:42:51 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:42:52 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:42:52 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:42:52 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:42:53 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:42:53 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:42:53 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:42:53 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:42:56 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:42:57 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:43:07 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:43:07 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:43:08 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:43:08 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:43:21 -  /api/Usuarios/hash/LinkDe1minuto - POST
+
+::1 - 15/11/2023 12:43:27 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:43:28 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:43:28 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:43:28 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:43:29 -  /changepassword/KJYUQ490x0MJ1nyYJnc7Q - GET
+
+::1 - 15/11/2023 12:43:31 -  /changepassword/vZxiUlv2k0u8Yloylfvg - GET
+
+::1 - 15/11/2023 12:44:33 -  /changepassword/vZxiUlv2k0u8Yloylfvg - GET
+
+::1 - 15/11/2023 12:44:34 -  /changepassword/vZxiUlv2k0u8Yloylfvg - GET
+
+::1 - 15/11/2023 12:44:40 -  /changepassword/vZxiUlv2k0u8Yloylfvg - GET
+
+::1 - 15/11/2023 12:44:41 -  /changepassword/vZxiUlv2k0u8Yloylfvg - GET
+
+::1 - 15/11/2023 12:44:45 -  /changepassword/vZxiUlv2k0u8Yloylfvg - GET
+
+::1 - 15/11/2023 12:44:46 -  /changepassword/vZxiUlv2k0u8Yloylfvg - GET
+
+::1 - 15/11/2023 12:44:46 -  /changepassword/vZxiUlv2k0u8Yloylfvg - GET
+
+::1 - 15/11/2023 12:44:46 -  /changepassword/vZxiUlv2k0u8Yloylfvg - GET
+
+::1 - 15/11/2023 12:45:26 -  /changepassword/vZxiUlv2k0u8Yloylfvg - GET
+
+::1 - 15/11/2023 12:45:27 -  /changepassword/vZxiUlv2k0u8Yloylfvg - GET
+
+::1 - 15/11/2023 12:45:27 -  /changepassword/vZxiUlv2k0u8Yloylfvg - GET
+
+::1 - 15/11/2023 12:45:27 -  /changepassword/vZxiUlv2k0u8Yloylfvg - GET
+
+::1 - 15/11/2023 12:45:28 -  /changepassword/vZxiUlv2k0u8Yloylfvg - GET
+
+::1 - 15/11/2023 12:45:28 -  /changepassword/vZxiUlv2k0u8Yloylfvg - GET
+
+::1 - 15/11/2023 12:45:28 -  /changepassword/vZxiUlv2k0u8Yloylfvg - GET
+
+::1 - 15/11/2023 12:45:28 -  /changepassword/vZxiUlv2k0u8Yloylfvg - GET
+
+::1 - 15/11/2023 12:45:29 -  /changepassword/vZxiUlv2k0u8Yloylfvg - GET
+
+::1 - 15/11/2023 12:45:29 -  /changepassword/vZxiUlv2k0u8Yloylfvg - GET
+
+::1 - 15/11/2023 12:45:29 -  /changepassword/vZxiUlv2k0u8Yloylfvg - GET
+
+::1 - 15/11/2023 12:45:29 -  /changepassword/vZxiUlv2k0u8Yloylfvg - GET
+
+::1 - 15/11/2023 12:47:26 -  /changepassword/vZxiUlv2k0u8Yloylfvg - GET
+
+::1 - 15/11/2023 12:47:27 -  /changepassword/vZxiUlv2k0u8Yloylfvg - GET
+
+::1 - 15/11/2023 12:48:26 -  /api/Usuarios/hash/LinkDe1minuto - POST
+
+::1 - 15/11/2023 12:48:43 -  /changepassword/ef613eogPkOjsmF8S1jSFA - GET
+
+::1 - 15/11/2023 12:48:43 -  /favicon.ico - GET
+
+::1 - 15/11/2023 12:50:23 -  /changepassword/ef613eogPkOjsmF8S1jSFA - GET
+
+::1 - 15/11/2023 12:50:24 -  /changepassword/ef613eogPkOjsmF8S1jSFA - GET
+
+::1 - 15/11/2023 12:50:24 -  /changepassword/ef613eogPkOjsmF8S1jSFA - GET
+
+::1 - 15/11/2023 12:50:25 -  /changepassword/ef613eogPkOjsmF8S1jSFA - GET
+
+::1 - 15/11/2023 12:50:25 -  /changepassword/ef613eogPkOjsmF8S1jSFA - GET
+
+::1 - 15/11/2023 12:50:25 -  /changepassword/ef613eogPkOjsmF8S1jSFA - GET
+
+::1 - 15/11/2023 12:50:25 -  /changepassword/ef613eogPkOjsmF8S1jSFA - GET
+
+::1 - 15/11/2023 12:50:25 -  /changepassword/ef613eogPkOjsmF8S1jSFA - GET
+
+::1 - 15/11/2023 12:50:25 -  /changepassword/ef613eogPkOjsmF8S1jSFA - GET
+
+::1 - 15/11/2023 12:50:26 -  /changepassword/ef613eogPkOjsmF8S1jSFA - GET
+
+::1 - 15/11/2023 12:50:26 -  /changepassword/ef613eogPkOjsmF8S1jSFA - GET
+
+::1 - 15/11/2023 12:50:26 -  /changepassword/ef613eogPkOjsmF8S1jSFA - GET
+
+::1 - 15/11/2023 12:50:26 -  /changepassword/ef613eogPkOjsmF8S1jSFA - GET
+
+::1 - 15/11/2023 12:50:26 -  /changepassword/ef613eogPkOjsmF8S1jSFA - GET
+
+::1 - 15/11/2023 12:50:26 -  /changepassword/ef613eogPkOjsmF8S1jSFA - GET
+
+::1 - 15/11/2023 12:50:27 -  /changepassword/ef613eogPkOjsmF8S1jSFA - GET
+
+::1 - 15/11/2023 12:50:27 -  /changepassword/ef613eogPkOjsmF8S1jSFA - GET
+
+::1 - 15/11/2023 12:50:32 -  /changepassword/ef613eogPkOjsmF8S1jSFA - GET
+
+::1 - 15/11/2023 12:57:09 -  /api/Usuarios/hash/LinkDe1minuto - POST
+
+::1 - 15/11/2023 12:57:20 -  /api/Usuarios/hash/LinkDe1minuto - POST
+
+::1 - 15/11/2023 12:57:43 -  /api/Usuarios/encriptar/nuevousuario - POST
+
+::1 - 15/11/2023 12:57:54 -  /api/Usuarios/hash/LinkDe1minuto - POST
+
+::1 - 15/11/2023 12:58:13 -  /changepassword/8xGQYWknd0Of34JqoyCLZw - GET
+
+::1 - 15/11/2023 12:58:13 -  /favicon.ico - GET
+
+::1 - 15/11/2023 12:58:16 -  /api/Usuarios/hash/LinkDe1minuto - POST
+
+::1 - 15/11/2023 12:58:23 -  /changepassword/8xGQYWknd0Of34JqoyCLZw - GET
+
+::1 - 15/11/2023 12:59:05 -  /changepassword/8xGQYWknd0Of34JqoyCLZw - GET
+
+::1 - 15/11/2023 12:59:06 -  /changepassword/8xGQYWknd0Of34JqoyCLZw - GET
+
+::1 - 15/11/2023 12:59:42 -  /changepassword/8xGQYWknd0Of34JqoyCLZw - GET
+
+::1 - 15/11/2023 12:59:46 -  /changepassword/8xGQYWknd0Of34JqoyCLZw - GET
+
+::1 - 15/11/2023 12:59:47 -  /changepassword/8xGQYWknd0Of34JqoyCLZw - GET
+
+::1 - 15/11/2023 12:59:48 -  /changepassword/8xGQYWknd0Of34JqoyCLZw - GET
+
+::1 - 15/11/2023 12:59:48 -  /changepassword/8xGQYWknd0Of34JqoyCLZw - GET
+
+::1 - 15/11/2023 13:02:22 -  /changepassword/8xGQYWknd0Of34JqoyCLZw - GET
+
+::1 - 15/11/2023 13:02:23 -  /changepassword/8xGQYWknd0Of34JqoyCLZw - GET
+
+::1 - 15/11/2023 13:02:23 -  /changepassword/8xGQYWknd0Of34JqoyCLZw - GET
+
+::1 - 15/11/2023 13:02:23 -  /changepassword/8xGQYWknd0Of34JqoyCLZw - GET
+
+::1 - 15/11/2023 13:02:23 -  /changepassword/8xGQYWknd0Of34JqoyCLZw - GET
+
+::1 - 15/11/2023 13:07:04 -  /api/Usuarios/hash/LinkDe1minuto - POST
+
+::1 - 15/11/2023 13:07:11 -  /changepassword/u40ZZ4e7UWmlpfalI7zaQ - GET
+
+::1 - 15/11/2023 13:07:11 -  /favicon.ico - GET
+
+::1 - 15/11/2023 13:07:23 -  /changepassword/u40ZZ4e7UWmlpfalI7zaQ - GET
+
+::1 - 15/11/2023 13:07:24 -  /changepassword/u40ZZ4e7UWmlpfalI7zaQ - GET
+
+::1 - 15/11/2023 13:07:25 -  /changepassword/u40ZZ4e7UWmlpfalI7zaQ - GET
+
+::1 - 15/11/2023 13:07:25 -  /changepassword/u40ZZ4e7UWmlpfalI7zaQ - GET
+
+::1 - 15/11/2023 13:09:36 -  /changepassword/u40ZZ4e7UWmlpfalI7zaQ - GET
+
+::1 - 15/11/2023 13:09:39 -  /changepassword/u40ZZ4e7UWmlpfalI7zaQ - GET
+
+::1 - 15/11/2023 13:09:53 -  /api/Usuarios/hash/LinkDe1minuto - POST
+
+::1 - 15/11/2023 13:10:02 -  /changepassword/fuyJ9a3vkGjlL9eNtVSTw - GET
+
+::1 - 15/11/2023 13:10:12 -  /changepassword/fuyJ9a3vkGjlL9eNtVSTw - GET
+
+::1 - 15/11/2023 13:10:15 -  /api/Usuarios/hash/LinkDe1minuto - POST
+
+::1 - 15/11/2023 13:10:20 -  /changepassword/fuyJ9a3vkGjlL9eNtVSTw - GET
+
+::1 - 15/11/2023 13:10:21 -  /changepassword/fuyJ9a3vkGjlL9eNtVSTw - GET
+
+::1 - 16/11/2023 11:27:31 -  /api/Autores - GET
+
+::1 - 16/11/2023 11:33:36 -  /api/Autores - GET
+
+::1 - 16/11/2023 11:40:11 -  /api/Usuarios/login - POST
+
+::1 - 16/11/2023 11:40:42 -  /api/Usuarios/hash/checkusuario - POST
+
+::1 - 16/11/2023 11:40:59 -  /api/Usuarios/encriptar/nuevousuario - POST
+
+::1 - 16/11/2023 11:41:13 -  /api/Usuarios/encriptar/checkusuario - POST
+
+::1 - 16/11/2023 11:41:24 -  /api/Usuarios/login - POST
+
+::1 - 16/11/2023 11:41:36 -  /api/Usuarios/hash/checkusuario - POST
+
+::1 - 16/11/2023 11:43:32 -  /api/Usuarios/hash/checkusuario - POST
+
+::1 - 16/11/2023 11:43:45 -  /api/Usuarios/hash/nuevousuario - POST
+
+::1 - 16/11/2023 11:43:52 -  /api/Usuarios/hash/checkusuario - POST
+
+::1 - 16/11/2023 11:44:23 -  /api/Usuarios/login - POST
+
+::1 - 16/11/2023 11:44:43 -  /api/Autores - GET
+
+::1 - 16/11/2023 11:45:10 -  /api/Autores - GET
+
+::1 - 16/11/2023 11:45:11 -  /api/Autores - GET
+
+::1 - 16/11/2023 11:45:24 -  /api/Autores - GET
+
+::1 - 16/11/2023 11:53:47 -  /api/Auth/login - POST
+
+::1 - 16/11/2023 11:54:20 -  /api/Autores - GET
+
+::1 - 16/11/2023 12:19:40 -  /api/Auth/login - POST
+
+::1 - 16/11/2023 12:19:52 -  /api/Usuarios/encriptar/nuevousuario - POST
+
+::1 - 16/11/2023 12:19:58 -  /api/Auth/login - POST
+
+::1 - 16/11/2023 12:20:10 -  /api/Auth/login - POST
+
+::1 - 16/11/2023 12:21:09 -  /api/Auth/login - POST
+
+::1 - 16/11/2023 12:21:22 -  /api/Auth/login - POST
+
+::1 - 16/11/2023 12:21:39 -  /api/Auth/login - POST
+
+::1 - 16/11/2023 12:22:24 -  /api/Auth/login - POST
+
+::1 - 16/11/2023 12:22:37 -  /api/Auth/login - POST
+
+::1 - 16/11/2023 12:26:42 -  /api/Auth/login - POST
+
+::1 - 16/11/2023 12:27:59 -  /api/Auth/login - POST
+
+::1 - 16/11/2023 12:28:28 -  /api/Auth/login - POST
+
+::1 - 16/11/2023 12:28:47 -  /api/Autores - GET
+
+::1 - 17/11/2023 9:28:35 -  /api/Autores - GET
+
+::1 - 17/11/2023 9:30:21 -  /api/Editoriales - GET
+
+::1 - 17/11/2023 9:35:53 -  /api/Editoriales - GET
+
+::1 - 17/11/2023 9:47:36 -  /api/Editoriales - GET
+
+::1 - 17/11/2023 9:48:07 -  /api/Editoriales - GET
+
+::1 - 17/11/2023 9:48:11 -  /api/Editoriales - GET
+
+::1 - 17/11/2023 9:48:12 -  /api/Editoriales - GET
+
+::1 - 17/11/2023 9:48:13 -  /api/Editoriales - GET
+
+::1 - 17/11/2023 9:48:13 -  /api/Editoriales - GET
+
+::1 - 17/11/2023 9:48:14 -  /api/Editoriales - GET
+
+::1 - 17/11/2023 9:48:14 -  /api/Editoriales - GET
+
+::1 - 20/11/2023 11:59:55 -  /api/Auth/login - POST
+
+::1 - 20/11/2023 12:28:33 -  /api/Auth/login - POST
+
+::1 - 20/11/2023 12:28:55 -  /api/Autores - GET
+
+::1 - 20/11/2023 12:30:01 -  /api/Autores - GET
+

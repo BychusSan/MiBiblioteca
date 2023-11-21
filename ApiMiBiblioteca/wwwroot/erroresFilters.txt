@@ -1,0 +1,134 @@
+ApiMiBiblioteca
+Error deliberado
+::1 - 10/11/2023 13:03:01 -  /Libros/345 - GET
+ApiMiBiblioteca
+Error deliberado
+::1 - 10/11/2023 13:04:01 -  /Libros/345 - GET
+ApiMiBiblioteca
+Error deliberado
+::1 - 10/11/2023 13:04:18 -  /Libros/2343 - GET
+
+ApiMiBiblioteca
+Error deliberado
+::1 - 10/11/2023 13:04:22 -  /Libros/2343234 - GET
+
+ApiMiBiblioteca
+Error deliberado
+::1 - 10/11/2023 13:04:28 -  /Libros/1 - GET
+
+Microsoft.EntityFrameworkCore.Relational
+An error occurred while saving the entity changes. See the inner exception for details.
+::1 - 13/11/2023 12:38:11 -  /api/Usuarios/encriptar/nuevousuario - POST
+
+Microsoft.EntityFrameworkCore.Relational
+An error occurred while saving the entity changes. See the inner exception for details.
+::1 - 13/11/2023 12:38:29 -  /api/Usuarios/encriptar/nuevousuario - POST
+
+Microsoft.EntityFrameworkCore.Relational
+An error occurred while saving the entity changes. See the inner exception for details.
+::1 - 13/11/2023 12:52:28 -  /api/Usuarios/encriptar/nuevousuario - POST
+
+Microsoft.EntityFrameworkCore
+The property 'Usuario.Id' has a temporary value while attempting to change the entity's state to 'Deleted'. Either set a permanent value explicitly, or ensure that the database is configured to generate values for this property.
+::1 - 13/11/2023 12:58:14 -  /api/Usuarios/2@2.es - DELETE
+
+Microsoft.EntityFrameworkCore
+The property 'Usuario.Id' has a temporary value while attempting to change the entity's state to 'Deleted'. Either set a permanent value explicitly, or ensure that the database is configured to generate values for this property.
+::1 - 13/11/2023 13:02:05 -  /api/Usuarios/2@2.es - DELETE
+
+Microsoft.AspNetCore.Cryptography.KeyDerivation
+Value cannot be null. (Parameter 'salt')
+::1 - 14/11/2023 10:43:30 -  /api/Usuarios/hash/checkusuario - POST
+
+Microsoft.AspNetCore.Cryptography.KeyDerivation
+Value cannot be null. (Parameter 'salt')
+::1 - 14/11/2023 10:43:52 -  /api/Usuarios/hash/checkusuario - POST
+
+Microsoft.AspNetCore.Cryptography.KeyDerivation
+Value cannot be null. (Parameter 'salt')
+::1 - 14/11/2023 10:44:26 -  /api/Usuarios/hash/checkusuario - POST
+
+Microsoft.AspNetCore.Cryptography.KeyDerivation
+Value cannot be null. (Parameter 'salt')
+::1 - 14/11/2023 10:44:40 -  /api/Usuarios/hash/checkusuario - POST
+
+Microsoft.AspNetCore.DataProtection
+The provided payload cannot be decrypted because it was not protected with this protection provider. For more information go to http://aka.ms/dataprotectionwarning
+::1 - 14/11/2023 10:45:31 -  /api/Usuarios/CambiarPassword - POST
+
+Microsoft.AspNetCore.DataProtection
+The provided payload cannot be decrypted because it was not protected with this protection provider. For more information go to http://aka.ms/dataprotectionwarning
+::1 - 14/11/2023 10:45:41 -  /api/Usuarios/CambiarPassword - POST
+
+Microsoft.AspNetCore.Cryptography.KeyDerivation
+Value cannot be null. (Parameter 'salt')
+::1 - 14/11/2023 10:50:52 -  /api/Usuarios/hash/checkusuario - POST
+
+Microsoft.AspNetCore.Cryptography.KeyDerivation
+Value cannot be null. (Parameter 'salt')
+::1 - 14/11/2023 10:51:17 -  /api/Usuarios/CambiarPassword - POST
+
+Microsoft.AspNetCore.Cryptography.KeyDerivation
+Value cannot be null. (Parameter 'salt')
+::1 - 16/11/2023 11:40:11 -  /api/Usuarios/login - POST
+
+Microsoft.AspNetCore.Cryptography.KeyDerivation
+Value cannot be null. (Parameter 'salt')
+::1 - 16/11/2023 11:40:43 -  /api/Usuarios/hash/checkusuario - POST
+
+Microsoft.AspNetCore.Cryptography.KeyDerivation
+Value cannot be null. (Parameter 'salt')
+::1 - 16/11/2023 11:41:24 -  /api/Usuarios/login - POST
+
+Microsoft.AspNetCore.Cryptography.KeyDerivation
+Value cannot be null. (Parameter 'salt')
+::1 - 16/11/2023 11:41:36 -  /api/Usuarios/hash/checkusuario - POST
+
+Microsoft.AspNetCore.Cryptography.KeyDerivation
+Value cannot be null. (Parameter 'salt')
+::1 - 16/11/2023 11:43:32 -  /api/Usuarios/hash/checkusuario - POST
+
+Microsoft.AspNetCore.Cryptography.KeyDerivation
+Value cannot be null. (Parameter 'salt')
+::1 - 16/11/2023 11:43:52 -  /api/Usuarios/hash/checkusuario - POST
+
+Microsoft.Extensions.DependencyInjection.Abstractions
+Unable to resolve service for type 'ApiMiBiblioteca.Services.TokenService' while attempting to activate 'ApiMiBiblioteca.Controllers.AuthController'.
+::1 - 16/11/2023 12:19:40 -  /api/Auth/login - POST
+
+Microsoft.Extensions.DependencyInjection.Abstractions
+Unable to resolve service for type 'ApiMiBiblioteca.Services.TokenService' while attempting to activate 'ApiMiBiblioteca.Controllers.AuthController'.
+::1 - 16/11/2023 12:19:58 -  /api/Auth/login - POST
+
+Microsoft.Extensions.DependencyInjection.Abstractions
+Unable to resolve service for type 'ApiMiBiblioteca.Services.TokenService' while attempting to activate 'ApiMiBiblioteca.Controllers.AuthController'.
+::1 - 16/11/2023 12:20:10 -  /api/Auth/login - POST
+
+Microsoft.Extensions.DependencyInjection.Abstractions
+Unable to resolve service for type 'ApiMiBiblioteca.Services.TokenService' while attempting to activate 'ApiMiBiblioteca.Controllers.AuthController'.
+::1 - 16/11/2023 12:21:09 -  /api/Auth/login - POST
+
+Microsoft.Extensions.DependencyInjection.Abstractions
+Unable to resolve service for type 'ApiMiBiblioteca.Services.TokenService' while attempting to activate 'ApiMiBiblioteca.Controllers.AuthController'.
+::1 - 16/11/2023 12:21:22 -  /api/Auth/login - POST
+
+Microsoft.Extensions.DependencyInjection.Abstractions
+Unable to resolve service for type 'ApiMiBiblioteca.Services.TokenService' while attempting to activate 'ApiMiBiblioteca.Controllers.AuthController'.
+::1 - 16/11/2023 12:21:39 -  /api/Auth/login - POST
+
+ApiMiBiblioteca
+Attempted to access a missing method.
+::1 - 16/11/2023 12:22:24 -  /api/Auth/login - POST
+
+ApiMiBiblioteca
+Attempted to access a missing method.
+::1 - 16/11/2023 12:22:37 -  /api/Auth/login - POST
+
+Microsoft.Extensions.DependencyInjection.Abstractions
+Unable to resolve service for type 'ApiMiBiblioteca.Services.TokenService' while attempting to activate 'ApiMiBiblioteca.Controllers.AuthController'.
+::1 - 16/11/2023 12:26:42 -  /api/Auth/login - POST
+
+Microsoft.Extensions.DependencyInjection.Abstractions
+Unable to resolve service for type 'ApiMiBiblioteca.Services.TokenService' while attempting to activate 'ApiMiBiblioteca.Controllers.AuthController'.
+::1 - 16/11/2023 12:27:59 -  /api/Auth/login - POST
+

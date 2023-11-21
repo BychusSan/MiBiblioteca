@@ -1,0 +1,205 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\gasan\\Desktop\\ApiMiBiblioteca\\ApiMiBiblioteca\\ApiMiBiblioteca\\wwwroot\\TotalLibros.txt",
+      "PackagePath": "staticwebassets\\TotalLibros.txt"
+    },
+    {
+      "Id": "C:\\Users\\gasan\\Desktop\\ApiMiBiblioteca\\ApiMiBiblioteca\\ApiMiBiblioteca\\wwwroot\\erroresFilters.txt",
+      "PackagePath": "staticwebassets\\erroresFilters.txt"
+    },
+    {
+      "Id": "C:\\Users\\gasan\\Desktop\\ApiMiBiblioteca\\ApiMiBiblioteca\\ApiMiBiblioteca\\wwwroot\\imagenes\\067a4b3c-c8c6-4a1a-8e8a-6c5c7c865919.png",
+      "PackagePath": "staticwebassets\\imagenes\\067a4b3c-c8c6-4a1a-8e8a-6c5c7c865919.png"
+    },
+    {
+      "Id": "C:\\Users\\gasan\\Desktop\\ApiMiBiblioteca\\ApiMiBiblioteca\\ApiMiBiblioteca\\wwwroot\\imagenes\\06b564c2-b3b1-4f5f-aa91-35bccf28a1bf.png",
+      "PackagePath": "staticwebassets\\imagenes\\06b564c2-b3b1-4f5f-aa91-35bccf28a1bf.png"
+    },
+    {
+      "Id": "C:\\Users\\gasan\\Desktop\\ApiMiBiblioteca\\ApiMiBiblioteca\\ApiMiBiblioteca\\wwwroot\\imagenes\\1120b90e-0da1-4c35-9e9c-57c3633a9af2.png",
+      "PackagePath": "staticwebassets\\imagenes\\1120b90e-0da1-4c35-9e9c-57c3633a9af2.png"
+    },
+    {
+      "Id": "C:\\Users\\gasan\\Desktop\\ApiMiBiblioteca\\ApiMiBiblioteca\\ApiMiBiblioteca\\wwwroot\\imagenes\\14b9bfd4-f909-44e9-858f-3118d0713a03.png",
+      "PackagePath": "staticwebassets\\imagenes\\14b9bfd4-f909-44e9-858f-3118d0713a03.png"
+    },
+    {
+      "Id": "C:\\Users\\gasan\\Desktop\\ApiMiBiblioteca\\ApiMiBiblioteca\\ApiMiBiblioteca\\wwwroot\\imagenes\\14d44f9b-e01c-4a37-b635-259f95334090.png",
+      "PackagePath": "staticwebassets\\imagenes\\14d44f9b-e01c-4a37-b635-259f95334090.png"
+    },
+    {
+      "Id": "C:\\Users\\gasan\\Desktop\\ApiMiBiblioteca\\ApiMiBiblioteca\\ApiMiBiblioteca\\wwwroot\\imagenes\\14e70fee-0fea-45b8-9b3a-585ed95f51ca.png",
+      "PackagePath": "staticwebassets\\imagenes\\14e70fee-0fea-45b8-9b3a-585ed95f51ca.png"
+    },
+    {
+      "Id": "C:\\Users\\gasan\\Desktop\\ApiMiBiblioteca\\ApiMiBiblioteca\\ApiMiBiblioteca\\wwwroot\\imagenes\\17d4407c-c70f-4050-8131-029e9e586f65.png",
+      "PackagePath": "staticwebassets\\imagenes\\17d4407c-c70f-4050-8131-029e9e586f65.png"
+    },
+    {
+      "Id": "C:\\Users\\gasan\\Desktop\\ApiMiBiblioteca\\ApiMiBiblioteca\\ApiMiBiblioteca\\wwwroot\\imagenes\\1f2b28e0-e50f-40e7-b46c-23873d4b3fd6.png",
+      "PackagePath": "staticwebassets\\imagenes\\1f2b28e0-e50f-40e7-b46c-23873d4b3fd6.png"
+    },
+    {
+      "Id": "C:\\Users\\gasan\\Desktop\\ApiMiBiblioteca\\ApiMiBiblioteca\\ApiMiBiblioteca\\wwwroot\\imagenes\\229a4ff7-6a27-4380-a23a-29cc023f983f.png",
+      "PackagePath": "staticwebassets\\imagenes\\229a4ff7-6a27-4380-a23a-29cc023f983f.png"
+    },
+    {
+      "Id": "C:\\Users\\gasan\\Desktop\\ApiMiBiblioteca\\ApiMiBiblioteca\\ApiMiBiblioteca\\wwwroot\\imagenes\\2e7f9d1e-9345-4399-a715-899f71c27e4b.png",
+      "PackagePath": "staticwebassets\\imagenes\\2e7f9d1e-9345-4399-a715-899f71c27e4b.png"
+    },
+    {
+      "Id": "C:\\Users\\gasan\\Desktop\\ApiMiBiblioteca\\ApiMiBiblioteca\\ApiMiBiblioteca\\wwwroot\\imagenes\\2f52da1c-e629-4503-b462-8b31570a7e84.png",
+      "PackagePath": "staticwebassets\\imagenes\\2f52da1c-e629-4503-b462-8b31570a7e84.png"
+    },
+    {
+      "Id": "C:\\Users\\gasan\\Desktop\\ApiMiBiblioteca\\ApiMiBiblioteca\\ApiMiBiblioteca\\wwwroot\\imagenes\\33d3f5bc-473f-491d-84aa-4b603abfe44c.png",
+      "PackagePath": "staticwebassets\\imagenes\\33d3f5bc-473f-491d-84aa-4b603abfe44c.png"
+    },
+    {
+      "Id": "C:\\Users\\gasan\\Desktop\\ApiMiBiblioteca\\ApiMiBiblioteca\\ApiMiBiblioteca\\wwwroot\\imagenes\\36a2df12-76c6-4b14-896e-379ef0f34898.png",
+      "PackagePath": "staticwebassets\\imagenes\\36a2df12-76c6-4b14-896e-379ef0f34898.png"
+    },
+    {
+      "Id": "C:\\Users\\gasan\\Desktop\\ApiMiBiblioteca\\ApiMiBiblioteca\\ApiMiBiblioteca\\wwwroot\\imagenes\\5267c674-596f-4a66-98cf-b9d01c11cb42.png",
+      "PackagePath": "staticwebassets\\imagenes\\5267c674-596f-4a66-98cf-b9d01c11cb42.png"
+    },
+    {
+      "Id": "C:\\Users\\gasan\\Desktop\\ApiMiBiblioteca\\ApiMiBiblioteca\\ApiMiBiblioteca\\wwwroot\\imagenes\\5502561b-d402-41fe-985c-b4faf438bf85.png",
+      "PackagePath": "staticwebassets\\imagenes\\5502561b-d402-41fe-985c-b4faf438bf85.png"
+    },
+    {
+      "Id": "C:\\Users\\gasan\\Desktop\\ApiMiBiblioteca\\ApiMiBiblioteca\\ApiMiBiblioteca\\wwwroot\\imagenes\\58790338-0ece-452f-aa36-d49584f7e360.png",
+      "PackagePath": "staticwebassets\\imagenes\\58790338-0ece-452f-aa36-d49584f7e360.png"
+    },
+    {
+      "Id": "C:\\Users\\gasan\\Desktop\\ApiMiBiblioteca\\ApiMiBiblioteca\\ApiMiBiblioteca\\wwwroot\\imagenes\\66765d23-581c-43e8-aba4-e204d550696d.png",
+      "PackagePath": "staticwebassets\\imagenes\\66765d23-581c-43e8-aba4-e204d550696d.png"
+    },
+    {
+      "Id": "C:\\Users\\gasan\\Desktop\\ApiMiBiblioteca\\ApiMiBiblioteca\\ApiMiBiblioteca\\wwwroot\\imagenes\\6ae974c0-9734-48d9-b3e8-e831d3d3c303.png",
+      "PackagePath": "staticwebassets\\imagenes\\6ae974c0-9734-48d9-b3e8-e831d3d3c303.png"
+    },
+    {
+      "Id": "C:\\Users\\gasan\\Desktop\\ApiMiBiblioteca\\ApiMiBiblioteca\\ApiMiBiblioteca\\wwwroot\\imagenes\\76d832e2-e10b-48ab-bbf1-d7ab572c75c3.png",
+      "PackagePath": "staticwebassets\\imagenes\\76d832e2-e10b-48ab-bbf1-d7ab572c75c3.png"
+    },
+    {
+      "Id": "C:\\Users\\gasan\\Desktop\\ApiMiBiblioteca\\ApiMiBiblioteca\\ApiMiBiblioteca\\wwwroot\\imagenes\\7b7fdd49-cdf3-4e19-959b-939380657f0a.png",
+      "PackagePath": "staticwebassets\\imagenes\\7b7fdd49-cdf3-4e19-959b-939380657f0a.png"
+    },
+    {
+      "Id": "C:\\Users\\gasan\\Desktop\\ApiMiBiblioteca\\ApiMiBiblioteca\\ApiMiBiblioteca\\wwwroot\\imagenes\\7d67008c-3bf6-4cd2-8484-1bcc9586ecf7.png",
+      "PackagePath": "staticwebassets\\imagenes\\7d67008c-3bf6-4cd2-8484-1bcc9586ecf7.png"
+    },
+    {
+      "Id": "C:\\Users\\gasan\\Desktop\\ApiMiBiblioteca\\ApiMiBiblioteca\\ApiMiBiblioteca\\wwwroot\\imagenes\\7e73cc5a-170b-4d4e-8ecc-84c813d612c7.png",
+      "PackagePath": "staticwebassets\\imagenes\\7e73cc5a-170b-4d4e-8ecc-84c813d612c7.png"
+    },
+    {
+      "Id": "C:\\Users\\gasan\\Desktop\\ApiMiBiblioteca\\ApiMiBiblioteca\\ApiMiBiblioteca\\wwwroot\\imagenes\\87b8efb3-162e-483d-8638-8980e2202090.png",
+      "PackagePath": "staticwebassets\\imagenes\\87b8efb3-162e-483d-8638-8980e2202090.png"
+    },
+    {
+      "Id": "C:\\Users\\gasan\\Desktop\\ApiMiBiblioteca\\ApiMiBiblioteca\\ApiMiBiblioteca\\wwwroot\\imagenes\\8849e742-b1b5-4ae3-8b59-d1a5465db9a9.png",
+      "PackagePath": "staticwebassets\\imagenes\\8849e742-b1b5-4ae3-8b59-d1a5465db9a9.png"
+    },
+    {
+      "Id": "C:\\Users\\gasan\\Desktop\\ApiMiBiblioteca\\ApiMiBiblioteca\\ApiMiBiblioteca\\wwwroot\\imagenes\\939ac8c2-8fe2-4bbc-8b52-55325a42c60a.png",
+      "PackagePath": "staticwebassets\\imagenes\\939ac8c2-8fe2-4bbc-8b52-55325a42c60a.png"
+    },
+    {
+      "Id": "C:\\Users\\gasan\\Desktop\\ApiMiBiblioteca\\ApiMiBiblioteca\\ApiMiBiblioteca\\wwwroot\\imagenes\\9a5382bf-d1e7-44e1-9743-c36c66937fe0.png",
+      "PackagePath": "staticwebassets\\imagenes\\9a5382bf-d1e7-44e1-9743-c36c66937fe0.png"
+    },
+    {
+      "Id": "C:\\Users\\gasan\\Desktop\\ApiMiBiblioteca\\ApiMiBiblioteca\\ApiMiBiblioteca\\wwwroot\\imagenes\\a0d1bf9b-bfa6-4060-8c19-f2f766ad1ad1.png",
+      "PackagePath": "staticwebassets\\imagenes\\a0d1bf9b-bfa6-4060-8c19-f2f766ad1ad1.png"
+    },
+    {
+      "Id": "C:\\Users\\gasan\\Desktop\\ApiMiBiblioteca\\ApiMiBiblioteca\\ApiMiBiblioteca\\wwwroot\\imagenes\\af4ef0fb-9fbe-4511-bf0b-cdd96055f034.png",
+      "PackagePath": "staticwebassets\\imagenes\\af4ef0fb-9fbe-4511-bf0b-cdd96055f034.png"
+    },
+    {
+      "Id": "C:\\Users\\gasan\\Desktop\\ApiMiBiblioteca\\ApiMiBiblioteca\\ApiMiBiblioteca\\wwwroot\\imagenes\\b0e1d9fc-68b0-4c72-b0af-d13e78b65d30.png",
+      "PackagePath": "staticwebassets\\imagenes\\b0e1d9fc-68b0-4c72-b0af-d13e78b65d30.png"
+    },
+    {
+      "Id": "C:\\Users\\gasan\\Desktop\\ApiMiBiblioteca\\ApiMiBiblioteca\\ApiMiBiblioteca\\wwwroot\\imagenes\\bc78680c-9d9a-459f-ae24-b1370341ce07.png",
+      "PackagePath": "staticwebassets\\imagenes\\bc78680c-9d9a-459f-ae24-b1370341ce07.png"
+    },
+    {
+      "Id": "C:\\Users\\gasan\\Desktop\\ApiMiBiblioteca\\ApiMiBiblioteca\\ApiMiBiblioteca\\wwwroot\\imagenes\\bfe9398e-b9b9-4c2e-88b9-f9f2649d6124.png",
+      "PackagePath": "staticwebassets\\imagenes\\bfe9398e-b9b9-4c2e-88b9-f9f2649d6124.png"
+    },
+    {
+      "Id": "C:\\Users\\gasan\\Desktop\\ApiMiBiblioteca\\ApiMiBiblioteca\\ApiMiBiblioteca\\wwwroot\\imagenes\\c7886aa1-8ef6-44a9-a18e-7ffcaa937275.png",
+      "PackagePath": "staticwebassets\\imagenes\\c7886aa1-8ef6-44a9-a18e-7ffcaa937275.png"
+    },
+    {
+      "Id": "C:\\Users\\gasan\\Desktop\\ApiMiBiblioteca\\ApiMiBiblioteca\\ApiMiBiblioteca\\wwwroot\\imagenes\\d32bb21c-b4ef-4da2-bc33-c8ded7b9f332.png",
+      "PackagePath": "staticwebassets\\imagenes\\d32bb21c-b4ef-4da2-bc33-c8ded7b9f332.png"
+    },
+    {
+      "Id": "C:\\Users\\gasan\\Desktop\\ApiMiBiblioteca\\ApiMiBiblioteca\\ApiMiBiblioteca\\wwwroot\\imagenes\\d41bd880-6334-4b00-ba48-3f274dca6ad2.png",
+      "PackagePath": "staticwebassets\\imagenes\\d41bd880-6334-4b00-ba48-3f274dca6ad2.png"
+    },
+    {
+      "Id": "C:\\Users\\gasan\\Desktop\\ApiMiBiblioteca\\ApiMiBiblioteca\\ApiMiBiblioteca\\wwwroot\\imagenes\\d491d856-f27b-4572-ba0a-ffa0cc94aca9.png",
+      "PackagePath": "staticwebassets\\imagenes\\d491d856-f27b-4572-ba0a-ffa0cc94aca9.png"
+    },
+    {
+      "Id": "C:\\Users\\gasan\\Desktop\\ApiMiBiblioteca\\ApiMiBiblioteca\\ApiMiBiblioteca\\wwwroot\\imagenes\\e1015d2f-3b10-4fb6-b018-a0eca94d8e83.png",
+      "PackagePath": "staticwebassets\\imagenes\\e1015d2f-3b10-4fb6-b018-a0eca94d8e83.png"
+    },
+    {
+      "Id": "C:\\Users\\gasan\\Desktop\\ApiMiBiblioteca\\ApiMiBiblioteca\\ApiMiBiblioteca\\wwwroot\\imagenes\\e37292dd-9b3c-47d4-9a99-9c5bc49861a6.png",
+      "PackagePath": "staticwebassets\\imagenes\\e37292dd-9b3c-47d4-9a99-9c5bc49861a6.png"
+    },
+    {
+      "Id": "C:\\Users\\gasan\\Desktop\\ApiMiBiblioteca\\ApiMiBiblioteca\\ApiMiBiblioteca\\wwwroot\\imagenes\\ea6432f8-75ad-4c6e-8ed6-fb1b42d451f5.png",
+      "PackagePath": "staticwebassets\\imagenes\\ea6432f8-75ad-4c6e-8ed6-fb1b42d451f5.png"
+    },
+    {
+      "Id": "C:\\Users\\gasan\\Desktop\\ApiMiBiblioteca\\ApiMiBiblioteca\\ApiMiBiblioteca\\wwwroot\\imagenes\\ef06b03f-bb35-431c-a727-c64c646a92ab.png",
+      "PackagePath": "staticwebassets\\imagenes\\ef06b03f-bb35-431c-a727-c64c646a92ab.png"
+    },
+    {
+      "Id": "C:\\Users\\gasan\\Desktop\\ApiMiBiblioteca\\ApiMiBiblioteca\\ApiMiBiblioteca\\wwwroot\\imagenes\\f3724d86-1bfa-40be-ae21-e620b5aab413.png",
+      "PackagePath": "staticwebassets\\imagenes\\f3724d86-1bfa-40be-ae21-e620b5aab413.png"
+    },
+    {
+      "Id": "C:\\Users\\gasan\\Desktop\\ApiMiBiblioteca\\ApiMiBiblioteca\\ApiMiBiblioteca\\wwwroot\\imagenes\\fc8b803f-559b-4e0d-b2b8-00d277de4243.png",
+      "PackagePath": "staticwebassets\\imagenes\\fc8b803f-559b-4e0d-b2b8-00d277de4243.png"
+    },
+    {
+      "Id": "C:\\Users\\gasan\\Desktop\\ApiMiBiblioteca\\ApiMiBiblioteca\\ApiMiBiblioteca\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\gasan\\Desktop\\ApiMiBiblioteca\\ApiMiBiblioteca\\ApiMiBiblioteca\\wwwroot\\log.txt",
+      "PackagePath": "staticwebassets\\log.txt"
+    },
+    {
+      "Id": "C:\\Users\\gasan\\Desktop\\ApiMiBiblioteca\\ApiMiBiblioteca\\ApiMiBiblioteca\\wwwroot\\log2.txt",
+      "PackagePath": "staticwebassets\\log2.txt"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.ApiMiBiblioteca.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.ApiMiBiblioteca.props",
+      "PackagePath": "build\\ApiMiBiblioteca.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.ApiMiBiblioteca.props",
+      "PackagePath": "buildMultiTargeting\\ApiMiBiblioteca.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.ApiMiBiblioteca.props",
+      "PackagePath": "buildTransitive\\ApiMiBiblioteca.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
